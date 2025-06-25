@@ -27,7 +27,7 @@ Flixx is a movie and TV show discovery app built using HTML, CSS, and JavaScript
 
 ## 🌐 Live Demo
 
-👉 [Check out the live website here](https://golden-melba-8d4b28.netlify.app/)
+👉 [Check out the live website here](https://flixx-moviereviews-webapp.netlify.app/)
 
 ---
 
