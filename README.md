@@ -39,14 +39,18 @@ Flixx is a movie and TV show discovery app built using HTML, CSS, and JavaScript
 git clone https://github.com/your-username/flixx-app.git
 cd flixx-app  
 ```
+
 ### 2. Get a Free TMDB API Key
+
 Visit TMDB API Settings
 Create an account and generate a new API key.
 
 ### 3. Add Your API Key
+
 Open the myscript.js file and Add your API key.
 
 ### 4. Run the App
+
 You can open index.html in your browser or use a local server.
 
 ---
