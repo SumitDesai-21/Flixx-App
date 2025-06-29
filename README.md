@@ -2,7 +2,13 @@
 
 Flixx is a movie and TV show discovery app built using HTML, CSS, and JavaScript. It integrates with the TMDB API to fetch and display trending movies, popular TV shows, detailed media pages, and a real-time search feature — all with a responsive UI and dynamic routing.
 
+## Home Page
+
 ![Shopping List Screenshot](images/preview.jpg)
+
+## Movie Review
+
+![Shopping List Screenshot](images/review.jpg)
 
 ---
 
@@ -36,7 +42,7 @@ Flixx is a movie and TV show discovery app built using HTML, CSS, and JavaScript
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/flixx-app.git
+git clone https://github.com/SumitDesai-21/flixx-app.git
 cd flixx-app  
 ```
 
