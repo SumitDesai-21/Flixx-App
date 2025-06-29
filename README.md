@@ -60,3 +60,25 @@ Open the myscript.js file and Add your API key.
 You can open index.html in your browser or use a local server.
 
 ---
+
+## 🚧 Future Advancements
+- 🎬 **YouTube Trailer Integration**  
+  Embed official trailers on movie and TV show detail pages using YouTube's API.
+
+- 🎭 **Genre-Based Filtering**  
+  Let users filter movies and shows by genre (Action, Comedy, Horror, etc.).
+
+- 🗓️ **Upcoming Releases Section**  
+  Display a separate section for movies and shows that are set to release soon.
+
+- ❤️ **Favorites / Watchlist**  
+  Allow users to save movies and shows to a personal watchlist using browser local storage.
+
+- 🔤 **Multi-language Support**  
+  Support for multiple languages (English, Hindi, etc.) using TMDB’s built-in language feature.
+
+- 📈 **Search Suggestions**  
+  Show instant suggestions while the user is typing in the search bar.
+
+- ♿ **Accessibility Enhancements**  
+  Improve support for screen readers and keyboard navigation.
