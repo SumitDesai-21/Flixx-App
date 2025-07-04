@@ -24,7 +24,8 @@ Flixx is a movie and TV show discovery app built using HTML, CSS, and JavaScript
 
 ## 🚀 Technologies Used
 
-- **HTML5/CSS3** – Markup and styling  
+- **HTML5** – Semantic and accessible markup
+- **CSS3** – Responsive and modern styling
 - **JavaScript (Vanilla)** – App logic and dynamic content rendering
 - **TMDB API** - Open-source API for movie and TV data
 - **Swiper.js** - Modern carousel library for the slider
@@ -57,7 +58,8 @@ Open the myscript.js file and Add your API key.
 
 ### 4. Run the App
 
-You can open index.html in your browser or use a local server.
+You can open index.html in your browser or use a local server
+(like Live Server in VS Code).
 
 ---
 
