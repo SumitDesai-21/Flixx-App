@@ -62,3 +62,8 @@ You can open index.html in your browser or use a local server
 (like Live Server in VS Code).
 
 ---
+## About the Author
+ - **LinkedIn**: [Sumit Desai](https://linkedin.com/in/sumit-v-d-3b6a9632a)
+ - **GitHub**: [Sumit Desai](https://github.com/SumitDesai-21)
+ 
+Happy Coding! :heart:
