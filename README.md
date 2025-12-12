@@ -2,12 +2,13 @@
 
 Flixx is a movie and TV show discovery app built using HTML, CSS, and JavaScript. It integrates with the TMDB API to fetch and display trending movies, popular TV shows, detailed media pages, and a real-time search feature all with a responsive UI and dynamic routing.
 
-<div style="display:flex; overflow-x:auto; gap:10px;">
-  <img src="images/pic1.png">
-  <img src="images/pic2.png">
-  <img src="images/pic3.png">
-  <img src="images/pic4.png">
-</div>
+<table>
+  <tr>
+    <td><img src="images/pic1.png" width="1366"> <img src="images/pic2.png" width="1366"></td>
+    <td><img src="images/pic3.png" width="1366"> <img src="images/pic4.png" width="1366"></td>
+  </tr>
+</table>
+
 
 ### Features
 
